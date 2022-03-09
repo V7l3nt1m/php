@@ -1,5 +1,6 @@
 <?php 
-echo "Ola mundo, GIT!";
 
-echo "jaofafasafaf";
+echo "Ola mundo, GIT!";
+echo "resolvido";
+
  ?>
