@@ -1,3 +1,5 @@
 <?php 
-echo "Hello word, GIT!";
+echo "Ola mundo, GIT!";
+
+
  ?>
